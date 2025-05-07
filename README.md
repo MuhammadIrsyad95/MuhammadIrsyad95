@@ -31,7 +31,7 @@ I’m a passionate **Full-Stack Developer** with 2+ years of experience building
 
 ---
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyad95&show_icons=true&theme=radical" alt="Irsyad's GitHub Stats" />
   <br/>
@@ -39,7 +39,6 @@ I’m a passionate **Full-Stack Developer** with 2+ years of experience building
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrsyad95&layout=compact&theme=radical" alt="Irsyad's Top Languages" />
 </p>
--->
 
 ---
 
