@@ -33,11 +33,11 @@ I’m a passionate **Full-Stack Developer** with 2+ years of experience building
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyad95&show_icons=true&theme=radical" alt="Irsyad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyad95&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrsyad95&theme=radical" alt="Irsyad's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrsyad95&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrsyad95&layout=compact&theme=radical" alt="Irsyad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrsyad95&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
