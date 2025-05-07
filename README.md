@@ -44,7 +44,7 @@ I’m a passionate **Full-Stack Developer** with 2+ years of experience building
 ---
 
 ### 📬 Let’s Connect!
-- 📧 **Email:** irsyadmuhammad339@gmail.com *(public email is okay for job hunting but consider using a professional alias if privacy is a concern)*  
+- 📧 **Email:** irsyadmuhammad339@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-irsyad-204821173)  
 - 💻 [My GitHub Portfolio](https://github.com/MuhammadIrsyad95)
 
