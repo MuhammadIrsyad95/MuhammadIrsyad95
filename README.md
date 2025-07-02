@@ -26,8 +26,8 @@ I'm a passionate **Full-Stack Developer** with 2+ years of experience building s
 | SQL Server, PostgreSQL, Supabase    | Tailwind CSS, Bootstrap, HTML5, CSS3       |
 | Microservices, JSON, XML            | jQuery, Responsive Design, SEO Optimization|
 
-**DevOps & Tools:** Azure DevOps, Git, GitHub, Vercel, Postman  
-**Practices:** Clean Architecture, Agile (Scrum), CI/CD, Lighthouse Optimization
+**DevOps & Tools:** Azure DevOps, Git, GitHub, Vercel, Postman, **YAML**  
+**Practices:** Clean Architecture, Microservice APIs, Agile (Scrum), CI/CD, Lighthouse Optimization
 
 ---
 
