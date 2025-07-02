@@ -19,14 +19,14 @@ I'm a passionate **Full-Stack Developer** with 2+ years of experience building s
 
 ### 🛠 Tech Stack
 
-| Backend | Frontend |
-|--------|----------|
-| .NET Core, C#, ASP.NET MVC | React.js, Next.js |
-| Entity Framework Core | JavaScript, TypeScript |
-| MS SQL Server, REST API | Redux, Tailwind CSS, Bootstrap |
-| Microservices, JSON/XML | HTML5, CSS3, jQuery |
+| Backend                             | Frontend                                  |
+|-------------------------------------|--------------------------------------------|
+| .NET Core, C#, ASP.NET MVC          | React.js, Next.js (App Router)             |
+| Entity Framework Core, REST API     | JavaScript, TypeScript, Redux              |
+| SQL Server, PostgreSQL, Supabase    | Tailwind CSS, Bootstrap, HTML5, CSS3       |
+| Microservices, JSON, XML            | jQuery, Responsive Design, SEO Optimization|
 
-**Tools:** Azure DevOps, GitHub, Postman  
+**DevOps & Tools:** Azure DevOps, Git, GitHub, Vercel, Postman  
 **Practices:** Clean Architecture, Agile (Scrum), CI/CD, Lighthouse Optimization
 
 ---
